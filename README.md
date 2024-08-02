@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Me chamo Gustavo, e sou aluno do instituto PROA
+- 🔭 Me chamo Gustavo, e sou ex aluno do instituto PROA
 - 🌱 No momento estou cursando Desenvolvimento web Java no institudo PROA
 
 <div align="center">
